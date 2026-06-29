@@ -4,3 +4,4 @@ build/
 .cache/
 scripts/download-liblbug.sh
 uv.lock
+*.pyd
